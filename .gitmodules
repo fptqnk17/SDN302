@@ -4,3 +4,6 @@
 [submodule "Assignments/Assignment 2/Submissions/hardingadonis"]
 	path = Assignments/Assignment 2/Submissions/hardingadonis
 	url = https://github.com/SDN302/assignment-2.git
+[submodule "Assignments/Assignment 1/Submissions/bakaqc"]
+	path = Assignments/Assignment 1/Submissions/bakaqc
+	url = https://github.com/SDN302-17C/assignment-1
