@@ -7,3 +7,6 @@
 [submodule "Assignments/Assignment 1/Submissions/bakaqc"]
 	path = Assignments/Assignment 1/Submissions/bakaqc
 	url = https://github.com/SDN302-17C/assignment-1
+[submodule "Assignments/Assignment 3/Submissions/hardingadonis"]
+	path = Assignments/Assignment 3/Submissions/hardingadonis
+	url = https://github.com/SDN302/assignment-3
