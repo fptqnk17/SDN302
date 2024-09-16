@@ -13,3 +13,6 @@
 [submodule "Assignments/Assignment 1/Submissions/thunder"]
 	path = Assignments/Assignment 1/Submissions/thunder
 	url = https://github.com/4-nam-dai-hoc/SDN302-assigment1.git
+[submodule "Assignments/Assignment 2/Submissions/bakaqc"]
+	path = Assignments/Assignment 2/Submissions/bakaqc
+	url = https://github.com/SDN302-17C/assignment-2
